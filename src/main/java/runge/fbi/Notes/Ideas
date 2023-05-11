@@ -1,0 +1,33 @@
+create an FBI "service"
+filters through every POI
+displays picture, name, basic info on person, crime and last seen location
+
+--maybe add n/n to see how far down the array i am
+
+filter through pictures on tap
+(should i have two buttons so i can go back and forward)
+
+put info into a list if it is not already and then just go down or up the list that way
+---will use a button for this feature
+------maybe make button pretty/interesting?
+----------have fun with design aspects
+
+--potentially add in feature to look up a POI via a search feature???
+
+
+TESTS:
+if service works
+if it displays new image after every click
+
+
+
+??? is there a rubric for the project? will ask on zoom meeting --no
+??? need to ask if dagger should be used for my project -- yes
+
+
+
+FIRST:
+setting up fbi to work with service (use earthquake as guide)
+
+SECOND:
+adapt to how we do things now (use weather as guide)
